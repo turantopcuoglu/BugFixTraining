@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: batik:batik-parser:1.6-1" type="java-imported" external-system-id="Maven">
+    <properties groupId="batik" artifactId="batik-parser" version="1.6-1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/batik/batik-parser/1.6-1/batik-parser-1.6-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/batik/batik-parser/1.6-1/batik-parser-1.6-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/batik/batik-parser/1.6-1/batik-parser-1.6-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
