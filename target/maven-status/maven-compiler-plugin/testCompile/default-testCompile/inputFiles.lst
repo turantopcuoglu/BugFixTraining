@@ -1,0 +1,12 @@
+/Users/turantopcuoglu/BugFixTraining/src/test/java/pages/LoginPage.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/utils/ConfDataReader.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/stepdefs/LoginPageStepdefs.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/runner/CucumberTestRunner.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/utils/UserDataReader.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/pages/BasePage.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/utils/Utils.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/utils/Hooks.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/pages/GlobalPage.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/stepdefs/GlobalStepDefs.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/utils/Driver.java
+/Users/turantopcuoglu/BugFixTraining/src/test/java/pages/HomePage.java
