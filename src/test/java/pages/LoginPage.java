@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import utils.UserDataReader;
 import utils.Utils;
 
-public class LoginPage extends BasePage{
+public class LoginPage extends BasePage {
 
     UserDataReader user = new UserDataReader();
     String userType;
